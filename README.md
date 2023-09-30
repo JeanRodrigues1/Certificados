@@ -6,3 +6,4 @@ Aqui se encontram meus certificados de tecnologia!
 ![Certificado modelagem de dados](https://github.com/JeanRodrigues1/Certificados/assets/111609898/ca92e698-bba6-4213-afa6-dcddc23a0e00)
 ![Certificado POO_Jean](https://github.com/JeanRodrigues1/Certificados/assets/111609898/89e04f20-cd30-4e80-9ce3-b8730d6190cc)
 [Certificado figma.pdf](https://github.com/JeanRodrigues1/Certificados/files/12671972/Certificado.figma.pdf)
+![d6278219-6513-4b91-928f-4315e0699bb6](https://github.com/JeanRodrigues1/Certificados/assets/111609898/585847d4-d599-4dea-85f8-2167ed4eb888)
